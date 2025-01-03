@@ -2,7 +2,7 @@
 title: "Homotopy-Aware Efficiently Adaptive State Lattices for Mobile Robot Motion Planning in Cluttered Environments"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper leverages homotopy constraints extracted from the robot's environment in order to provide motion plans that ease the burden of path-following controllers for mobile robot navigation'
+excerpt: 'This paper leverages homotopy constraints extracted from the surrounding environment in order to provide motion plans that ease the burden of path-following controllers for mobile robot navigation'
 date: 2025-02-01
 venue: 'IEEE Robotics and Automation Letters'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
