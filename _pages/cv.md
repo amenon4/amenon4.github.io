@@ -18,14 +18,12 @@ Education
 Work experience
 ======
 * August 2021 - Current: PhD Research Assistant
-  * University of Rochester
   * Advised by Professor Thomas Howard
   * Participated in the DARPA RACER Program as a member of the Motion Planning Group of the Carnegie Mellon Team
   * Currently working as a researcher on the Army Research Lab (ARL) Scalable, Adaptive, Resilient Autonomy (SARA) program, studying robust autonomy for wheeled mobile robots in unstructured environments.
   * Currently working as a researcher on the ARL Distributed and Collaborative Intelligent Systems and Technology (DCIST) program, studying language grounding for heterogeneous human-robot teams.
 
-* June 2021 - August 2021: Research Intern
-  * Army Research Lab
+* June 2021 - August 2021: Research Intern at the Army Research Lab
   * Developed and tested a multimodal approach to terrain-aware cost map generation for unmanned ground behicles
   
 Skills/Expertise (for exhaustive list, see resume)
