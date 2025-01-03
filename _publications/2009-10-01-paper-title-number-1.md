@@ -6,6 +6,7 @@ excerpt: 'This paper discretizes the space of robot states considered during nod
 date: 2021-10-01
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 [//]: # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/9636181'
 citation: 'B. Hedegaard, E Fahnestock, J. Arkin, A. Menon, and T.M. Howard. (2021). &quot;Discrete Optimization of Adaptive State Lattices for Iterative Motion Planning on Unmanned Ground Vehicles&quot; <i>2021 IEEE/RSJ International Conference on Intelligent Robots and Systems</i>. pp. 5764-5771.'
 ---
 

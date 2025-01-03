@@ -3,9 +3,10 @@ title: "Toward Mobile Robot Navigation in Unstructured Environments Using Topolo
 collection: publications
 permalink: /publication/2024-taeasl
 date: 2024-05-17
+excerpt: 'This paper is the initial manuscript which pertains to the homotopy-constraint search algorithm which is more rigorously examined in the above paper.'
 venue: '2024 International Conference on Robotics and Automation (ICRA) Workshop on Resilient Off-Road Autonomy'
 [//]: # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-[//]: # paperurl: 'https://openreview.net/pdf?id=sGPT1ws0Yf'
+paperurl: 'https://openreview.net/pdf?id=sGPT1ws0Yf'
 citation: 'A.S. Menon, E.R. Damm, and T.M. Howard. (2024). &quot;Toward Mobile Robot Navigation in Unstructured Environments Using Topology-Aware Efficiently Adaptive State Lattices.&quot; <i>ICRA 2024 Workshop on Resilient Off-Road Autonomy</i>.'
 
 ---

@@ -6,7 +6,7 @@ excerpt: 'This paper leverages homotopy constraints extracted from the surroundi
 date: 2025-02-01
 venue: 'IEEE Robotics and Automation Letters'
 [//]: # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-[//]: # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10803070'
 citation: 'A.S. Menon, E.R. Damm, and T.M. Howard. (2025). &quot;Homotopy-Aware Efficiently Adaptive State Lattices for Mobile Robot Motion Planning in Cluttered Environments.&quot; <i>IEEE Robotics and Automation Letters</i>. vol. 10, no. 2, pp. 947-954.'
 
 ---
