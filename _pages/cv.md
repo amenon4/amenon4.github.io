@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, University of Rochester, 2026 (expected)
+* M.S. in Electrical Engineering, University of Rochester, 2024
+* B.S. in Electrical and Computer Engineering, University of Rochester, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2021 - Current: PhD Research Assistant
+  * University of Rochester
+  * Advised by Professor Thomas Howard
+  * Participated in the DARPA RACER Program as a member of the Motion Planning Group of the Carnegie Mellon Team
+  * Currently working as a researcher on the Army Research Lab (ARL) Scalable, Adaptive, Resilient Autonomy (SARA) program, studying robust autonomy for wheeled mobile robots in unstructured environments.
+  * Currently working as a researcher on the ARL Distributed and Collaborative Intelligent Systems and Technology (DCIST) program, studying language grounding for heterogeneous human-robot teams.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2021 - August 2021: Research Intern
+  * Army Research Lab
+  * Developed and tested a multimodal approach to terrain-aware cost map generation for unmanned ground behicles
   
-Skills
+Skills/Expertise (for exhaustive list, see resume)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Autonomous Mobile Robotics
+  * Motion planning
+  * Navigation in unstructured environments
+* C++
+* Robot Operating System (ROS)
+* Git VCS
 
 Publications
 ======
@@ -59,6 +55,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
