@@ -12,11 +12,3 @@ This is a description of a teaching experience. You can use markdown like any ot
 * Graded problems sets
 * Ran laboratory sessions for students to build basic circuits on breadboards and to complete various programming assignments
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

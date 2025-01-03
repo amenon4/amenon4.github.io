@@ -9,11 +9,5 @@ location: "City, Country"
 ---
 * Held weekly office hours to assist students with various programming assignments
 * Graded homeworks and exams
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======
