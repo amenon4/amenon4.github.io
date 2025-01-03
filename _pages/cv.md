@@ -32,6 +32,7 @@ Skills/Expertise (for exhaustive list, see resume)
   * Motion planning
   * Navigation in unstructured environments
 * C++
+* Python
 * Robot Operating System (ROS)
 * Git VCS
 

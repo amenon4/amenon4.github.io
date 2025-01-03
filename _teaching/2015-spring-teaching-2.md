@@ -1,15 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant for Intro to C/C++ Programming"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "University of Rochester, Department of Electrical and Computer Engineering"
+date: 2022-05-01
 location: "City, Country"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
+* Held weekly office hours to assist students with various programming assignments
+* Graded homeworks and exams
 Heading 1
 ======
 
