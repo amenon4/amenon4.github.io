@@ -3,7 +3,7 @@ title: "Discrete Optimization of Adaptive State Lattices for Iterative Motion Pl
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper discretizes the space of robot states considered during node adaptation in order to more efficiently perform graph-based search for unmanned ground vehicles.'
-date: 2021-10
+date: 2021-10-01
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 [//]: # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'B. Hedegaard, E Fahnestock, J. Arkin, A. Menon, and T.M. Howard. (2021). &quot;Discrete Optimization of Adaptive State Lattices for Iterative Motion Planning on Unmanned Ground Vehicles&quot; <i>2021 IEEE/RSJ International Conference on Intelligent Robots and Systems</i>. pp. 5764-5771.'
