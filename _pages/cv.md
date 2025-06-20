@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, University of Rochester, 2026 (expected)
+* Ph.D in Electrical Engineering, University of Rochester, 2025 (expected)
 * M.S. in Electrical Engineering, University of Rochester, 2024
 * B.S. in Electrical and Computer Engineering, University of Rochester, 2020
 

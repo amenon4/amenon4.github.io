@@ -1,7 +1,7 @@
 ---
 title: "Temporally-Sampled Efficiently Adaptive State Lattices for Autonomous Ground Robot Navigation in Partially Observed Environments"
 collection: publications
-permalink: /publication/2024-taeasl
+permalink: /publication/2025-tseasl
 date: 2025-07-09
 excerpt: 'This paper proposes a robot motion planning arbitration architecture which selects one of multiple candidate trajectories to pass down to the path-following controller. It is used to reduce the burden of safe navigation on the controller in partially observable environments that are prone to perceptual changes.'
 venue: '19th International Symposium on Experimental Robotics (ISER)'
